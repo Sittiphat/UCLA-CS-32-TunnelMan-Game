@@ -13,4 +13,4 @@ During game-play, the player controls the direction of the TunnelMan with the ar
 the numeric keypad.
 
 
-![Alt Text](https://media.giphy.com/media/dOjcTdp0ypDeNRQEDy/giphy.gif)
+![Alt Text](https://media.giphy.com/media/IRTMxr67Hj9VHCqnym/giphy.gif)
