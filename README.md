@@ -11,4 +11,6 @@ $ ./TunnelMan.exe
 
 During game-play, the player controls the direction of the TunnelMan with the arrow keys, or for lefties and others for whom the arrow key placement is awkward, WASD or
 the numeric keypad.
+
+
 ![Alt Text](https://media.giphy.com/media/dOjcTdp0ypDeNRQEDy/giphy.gif)
