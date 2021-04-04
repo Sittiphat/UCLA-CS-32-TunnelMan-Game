@@ -4,7 +4,7 @@ This is fourth and final project for COM SCI 32 - Introduction to Computer Scien
  
 In TunnelMan, the player starts out a new game with three lives and continues to play until all of his/her lives have been exhausted. There are multiple levels in TunnelMan, beginning with level 0, and each level has its own unique oil field configuration. During each level, the TunnelMan (controlled by the player) must dig and find all of the oil hidden within the oil field in order to move on to the next level.
 
-To run the game on a Windows' machine, in go into the executable folder and run:
+To run the game on a Windows' machine, go into the executable directory and run:
 ```
 $ ./TunnelMan.exe
 ```
