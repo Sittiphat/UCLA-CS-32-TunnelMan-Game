@@ -10,7 +10,7 @@ $ ./TunnelMan.exe
 ```
 
 During game-play, the player controls the direction of the TunnelMan with the arrow keys, or for lefties and others for whom the arrow key placement is awkward, WASD or
-the numeric keypad.
+the numeric keypad. Spacebar is used to spray the enemy NPC with water.
 
 
 ![Alt Text](https://media.giphy.com/media/IRTMxr67Hj9VHCqnym/giphy.gif)
